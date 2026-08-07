@@ -1,8 +1,7 @@
 ### 👋 你好，我是浅唱（QianChang）
 
-> 🛠️ AI/理工科方向 | 挑战杯揭榜挂帅参赛者 | 开源折腾爱好者
+> 🛠️ AI/理工科方向 | 开源折腾爱好者
 > 🧠 自动驾驶数据标注质量控制（data-centric AI）研究
-> 🎮 格雷科技 GTNH / AE2 硬核玩家
 
 ---
 
@@ -19,7 +18,7 @@
 | 项目 | 说明 | 语言 |
 |------|------|------|
 | [crucix_zh_repir](https://github.com/QianChang-official/crucix_zh_repir) | 大数据风控项目 · 私人情报特工 | JavaScript |
-| [wan-wei--shuyi-osagent](https://github.com/QianChang-official/wan-wei--shuyi-osagent) | 挑战杯揭榜挂帅 · 银河麒麟记忆优化 OSAgent | Python |
+| [wan-wei--shuyi-osagent](https://github.com/QianChang-official/wan-wei--shuyi-osagent) | 银河麒麟记忆优化 OSAgent | Python |
 | [meoo-app](https://github.com/QianChang-official/meoo-app) | Taro 4 + React 手机端双端项目 | TypeScript |
 | [originqc-qml-dr](https://github.com/QianChang-official/originqc-qml-dr) | 本源量子 × CCF · 量子机器学习竞赛 | Python |
 | [CodeDeck](https://github.com/QianChang-official/CodeDeck) | 安卓端 AI 辅助编程器 | TypeScript |
@@ -31,7 +30,6 @@
 
 ## 🏆 成就与参与
 
-- 2026 挑战杯揭榜挂帅 · 麒麟 OS 赛道（XA-202612）
 - 本源量子 × 中国计算机学会 · 量子机器学习竞赛（Score: 39.76）
 - 领航杯人工智能赛道 · 心理测试平台
 
