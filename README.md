@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- 顶部波浪横幅 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a93b0,100:a7c4d4&height=180&section=header&text=%E6%B5%85%E5%94%B1%20QianChang&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI/%E7%90%86%E5%B7%A5%E7%A7%91%20%C2%B7%20%E5%BC%80%E6%BA%90%E6%8A%98%E8%85%BE%E7%88%B1%E5%A5%BD%E8%80%85&descAlignY=55&descSize=16" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a93b0,100:a7c4d4&height=180&section=header&text=%E6%B5%85%E5%94%B1%20QianChang&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI/%E7%90%86%E5%B7%A5%E7%A7%91%20%C2%B7%20%E5%BC%80%E6%BA%90%E7%88%B1%E5%A5%BD%E8%80%85&descAlignY=55&descSize=16" alt="header" />
 
 <!-- 打字机自我介绍 -->
 <a href="https://github.com/QianChang-official">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=22&duration=3000&pause=1000&color=5B8FA8&center=true&vCenter=true&width=520&lines=%F0%9F%91%8B%20%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E6%B5%85%E5%94%B1%EF%BC%88QianChang%EF%BC%89;%F0%9F%9B%A0%EF%B8%8F%20AI/%E7%90%86%E5%B7%A5%E7%A7%91%E6%96%B9%E5%90%91%20%7C%20%E5%BC%80%E6%BA%90%E6%8A%98%E8%85%BE%E7%88%B1%E5%A5%BD%E8%80%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=22&duration=3000&pause=1000&color=5B8FA8&center=true&vCenter=true&width=520&lines=%F0%9F%91%8B%20%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E6%B5%85%E5%94%B1%EF%BC%88QianChang%EF%BC%89;%F0%9F%9B%A0%EF%B8%8F%20AI/%E7%90%86%E5%B7%A5%E7%A7%91%E6%96%B9%E5%90%91%20%7C%20%E5%BC%80%E6%BA%90%E7%88%B1%E5%A5%BD%E8%80%85" alt="Typing SVG" />
 </a>
 
 <!-- 访问统计徽章 -->
@@ -30,7 +30,16 @@
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=QianChang-official&theme=github-compact&color=5b8fa8&line=6a93b0&point=3d6e8a&area=true&area_color=a7c4d4" alt="Activity Graph" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QianChang-official&theme=github" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <a href="https://ghfind.com/u/qianchang-official?ref=badge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/qianchang-official?variant=strip&theme=dark&lang=zh" />
+      <img src="https://ghfind.com/api/card/mini/qianchang-official?variant=strip&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="420" />
+    </picture>
+  </a>
 </div>
 
 ## 🚀 精选项目
@@ -47,11 +56,22 @@
 
 ## 🛠️ 技术栈
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,go,docker,kubernetes,postgres,react,fastapi,githubactions&perline=6" alt="Tech Stack" />
-  <br/>
-  <img src="https://img.shields.io/badge/Taro%204-React-blue?style=flat&color=6a93b0" alt="Taro 4" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Taro%204-3178C6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
 
 <div align="center">
   <br/>
