@@ -29,19 +29,6 @@
   <img height="165" src="https://streak-stats.demolab.com?user=QianChang-official&theme=calm&hide_border=false" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QianChang-official&theme=github" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <a href="https://ghfind.com/u/qianchang-official?ref=badge">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/qianchang-official?variant=strip&theme=dark&lang=zh" />
-      <img src="https://ghfind.com/api/card/mini/qianchang-official?variant=strip&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="420" />
-    </picture>
-  </a>
-</div>
-
 ## 🚀 精选项目
 
 | 项目 | 说明 | 语言 | Stars |
