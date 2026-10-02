@@ -47,8 +47,6 @@
 | [originqc-qml-dr](https://github.com/QianChang-official/originqc-qml-dr) | 本源量子 × CCF 量子机器学习竞赛，糖网分级（Score 39.76） | Python | ![stars](https://img.shields.io/github/stars/QianChang-official/originqc-qml-dr?style=flat&color=6a93b0) |
 | [mind-test-platform](https://github.com/QianChang-official/mind-test-platform) | 领航杯人工智能赛道 · 心理测试平台 | — | ![stars](https://img.shields.io/github/stars/QianChang-official/mind-test-platform?style=flat&color=6a93b0) |
 
-> 其余仓库大多是从 AE2 模组、Orca 等项目 fork 下来研究的，不算我的东西，就不占版面了。
-
 ---
 
 ## 🛠️ 技术栈
