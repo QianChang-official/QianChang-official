@@ -13,7 +13,6 @@
   <a href="https://github.com/QianChang-official?tab=followers">
     <img src="https://img.shields.io/github/followers/QianChang-official?label=Followers&style=flat&color=6a93b0&labelColor=e8eef2" alt="followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=QianChang-official&label=Profile%20Views&color=6a93b0&style=flat" alt="profile views" />
   <a href="https://qianchanglys.top">
     <img src="https://img.shields.io/badge/Website-qianchanglys.top-6a93b0?style=flat-square" alt="website" />
   </a>
