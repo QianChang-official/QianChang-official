@@ -81,8 +81,9 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=QianChang-official&show_icons=true&include_all_commits=true&rank_icon=github&custom_title=Stats&title_color=5B8FA8&text_color=3D4F5C&icon_color=6A93B0&bg_color=F7FAFC&border_color=D8E3EA&ring_color=6A93B0&line_color=E8EEF2" alt="QianChang's GitHub stats" />
-  <img height="180" src="https://streak-stats.demolab.com?user=QianChang-official&theme=calm&hide_border=false" alt="GitHub Streak" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=QianChang-official&show_icons=true&include_all_commits=true&rank_icon=github&custom_title=Stats&title_color=5B8FA8&text_color=3D4F5C&icon_color=6A93B0&bg_color=FFFFFF&border_color=D8E3EA&ring_color=6A93B0&line_color=E8EEF2" alt="QianChang's GitHub stats" />
+  <br/>
+  <img height="170" src="https://streak-stats.demolab.com?user=QianChang-official&background=FFFFFF&border=D8E3EA&stroke=6A93B0&ring=DCE7EE&fire=6A93B0&currStreakNum=3D4F5C&sideNums=3D4F5C&sideLabels=8AA0AE&dates=8AA0AE&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
